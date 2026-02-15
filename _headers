@@ -1,0 +1,9 @@
+/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600
+
+/*.md
+  Content-Type: text/markdown; charset=utf-8
+
+/*.html
+  Content-Type: text/html; charset=utf-8

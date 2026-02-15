@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.seiziapp",
+      "sha256_cert_fingerprints": [
+        "2F:F7:E4:FF:FB:93:47:01:25:9B:BB:A4:95:3D:75:17:B5:BC:B9:AE:10:46:96:1D:82:7A:EB:72:D3:0F:15:D8"
+      ]
+    }
+  }
+]
